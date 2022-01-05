@@ -1,7 +1,6 @@
 # store-challenge-python
 
 ## Getting started
-<hr />
 
 ### Prerequisites
 You just need [Python](https://www.python.org/downloads/) 3.9+
