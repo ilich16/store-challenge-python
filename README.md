@@ -61,7 +61,7 @@ Note: the arguments of the datetime constructor are: `datetime(year, month, day,
 
 ## Tests
 
-You can run tests executing the following commands:
+You can run tests with the following commands:
 ```
 python -m unittest tests/models/test_incident.py
 python -m unittest tests/models/test_store.py
