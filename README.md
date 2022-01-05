@@ -12,7 +12,6 @@ $ git clone https://github.com/ilich16/store-challenge-python.git
 ```
 
 ## Usage
-<hr />
 
 Open your command line application and enter the python interpreter:
 ```
@@ -61,7 +60,6 @@ Now you can call to `incident_status` function:
 Note: the arguments of the datetime constructor are: `datetime(year, month, day, hour, minute, second)`
 
 ## Tests
-<hr />
 
 You can run tests executing the following commands:
 ```
